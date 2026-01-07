@@ -1,4 +1,4 @@
-### Hi there, I'm Wooyoung Kim! 👋
+### Hi there, I'm Wooyoung! 👋
 
 I am currently pursuing a Master’s degree in Computer Engineering at the University of Southern California. My career interests broadly lie in the fields of AI, Software Engineering, and DevOps.
 
