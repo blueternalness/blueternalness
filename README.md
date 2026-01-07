@@ -50,7 +50,6 @@ Here are the technologies I specialize in:
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-
   <img alt="AWS S3" src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white">
   <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
   <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
@@ -58,21 +57,15 @@ Here are the technologies I specialize in:
 </p>
 
 ---
+### 🚀 Featured Experience
 
-### 🚀 Selected Experience
-
-| Project / Role | Description | Key Tech |
+| Project | Description | Key Tech |
 | :--- | :--- | :--- |
-| **Language Model Evaluation Platform** | Built a distributed system to evaluate LLMs using *LLM-as-a-Judge* and *Needle-in-a-Haystack* benchmarks. [cite_start]Achieved **15x speedup** in inference via concurrent architecture. [cite: 11, 15, 16] | `Python`, `VLLM`, `Distributed Systems` |
-| **Health Data ETL Pipeline** | Designed pipelines to process millions of health data points from wearable devices. [cite_start]Improved performance by **10x** and reduced storage costs by **4x**. [cite: 20, 21, 22, 23] | `AWS`, `Airflow`, `ETL` |
-| **Cluster Management Web Service** | [cite_start]Developed a multi-cluster management service with a web terminal, enabling seamless control of GPU clusters and automating CI/CD workflows. [cite: 27, 28, 29, 30] | `React`, `FastAPI`, `Kubernetes`, `Docker` |
-
----
-
-### 🏆 Certifications & Publications
-
-* [cite_start]**Certified Kubernetes Administrator (CKA)** [cite: 38]
-* [cite_start]**Paper:** *"DoA Estimation Using Wireless Distributed PCA"* - Published in The Journal of Korean Institute of Communications and Information Sciences [cite: 39]
+| **[Language Model Evaluation Platform](https://wooyoung-kim.notion.site/EAI-Language-Model-Evaluation-Platform-24f2bc1cc30f802a8489e0fec7f7c8db)** |  To replace inefficient manual testing processes at Samsung Research, I developed an automated language model evaluation platform. | `Backend(Python/FastAPI/PyTorch/LangChain)`, `RAG`, `Language Model Evaluation`, `Prompt Engineering`, `vLLM`, `HuggingFace` |
+| **[Platform Delivery Using Multi-Cloud Provisioning & Deployment](https://wooyoung-kim.notion.site/HRP-Platform-Delivery-Using-Multi-Cloud-Provisioning-Deployment-24f2bc1cc30f80289305ce8436086194)** | I initiated a project to streamline the secure deployment of a health research platform to partner medical institutions' diverse cloud environments. By standardizing and automating setup procedures, I significantly reduced deployment time and eliminated errors associated with manual configuration. | `AWS`, `Bash`, `Github Actions`, `Terraform`, `Docker`, `Kubernetes`, `Helm` |
+| **[Health Data ETL Pipeline](https://wooyoung-kim.notion.site/HRP-Health-Data-ETL-Extract-Transform-Load-Pipeline-24f2bc1cc30f8004904ad1cef023dc2a)** | To address scaling issues within the Health Research Platform, I engineered a robust data pipeline capable of processing millions of data points from mobile and wearable devices. This architecture enabled the successful delivery of the platform's core health data analysis and visualization features. | `Data Repository(S3/EFS/Redshift/MongoDB/PostgreSQL)`, `Data Transfer(Rclone)`, `Data Processing(Airflow/Bash/Python/SQL/NoSQL)`, `Data Visualization(Apache Superset)` |
+| **[Monitoring/Metering Pipeline](https://wooyoung-kim.notion.site/SPACE-Monitoring-Metering-Pipeline-24f2bc1cc30f80d386f8e8cef497091e)** |  I built a centralized monitoring system using Prometheus to track the real-time availability and utilization of thousands of GPU and computing resources. This solution optimized resource allocation for researchers and provided executives with periodic usage reports to support business decisions. | `Prometheus`, `Grafana`, `Metering-operator`, `Docker`, `Kubernetes`, `Helm`, `SQL` |
+| **[Cluster Management Web Service](https://wooyoung-kim.notion.site/MOKU-Cluster-Management-Web-Service-24f2bc1cc30f807496d5d1d7ab5fa89e)** | I utilized Terraform and Kubernetes to dynamically provision cloud infrastructure and virtual environments tailored to AI researchers' specific needs via web input. This system significantly improved development efficiency and reduced costs by automating setup for users with limited IT infrastructure knowledge. | `Frontend(Typescript/React.js)`, `Backend(Typescript/Node.js/Express.js)`, `PostgreSQL`, `Gihub Actions`, `ArgoCD`,  `Bash`, `Docker`, `Kubernetes`, `Helm`, `Terraform`, `AWS` |
 
 ---
 
