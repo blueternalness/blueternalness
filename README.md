@@ -1,22 +1,26 @@
-### Hi there, I'm Wooyoung (Brian) Kim! 👋
+### Hi there, I'm Wooyoung Kim! 👋
 
-[cite_start]I'm a Master's student in **Computer Engineering** at the **University of Southern California (USC)**, driven by a passion for building scalable AI infrastructure and distributed systems. [cite: 1, 4, 5]
+I am currently pursuing a Master’s degree in Computer Engineering at the University of Southern California. My career interests broadly lie in the fields of AI, Software Engineering, and DevOps.
 
-Previously, I worked as a **Software Engineer at Samsung Research**, where I architected LLM evaluation platforms and optimized large-scale ETL pipelines. [cite_start]My expertise lies at the intersection of **MLOps, Cloud Engineering, and Backend Development**. [cite: 9, 10, 11]
+Before coming to the United States, I worked for three years as a Software Engineer at Samsung Research in South Korea, where I contributed to a wide range of projects. My experience spans across *Automation, Backend, Big Data Processing, CI/CD, Cloud, DevOps, Full-Stack Development, Kubernetes, Language Model Evaluation, RAG,* and *Site Reliability Engineering*.
+
+During my BS in Electrical & Computer Engineering at Seoul National University, I also studied Entrepreneurship, with a focus on project management.
 
 ---
 
 ### 🔧 My Toolbox
 
-[cite_start]Here are the technologies I specialize in: [cite: 31, 32, 33, 34, 35, 36]
+Here are the technologies I specialize in:
 
-**Languages & Frameworks**
+**Code**
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 </p>
 
 **AI & Machine Learning**
@@ -30,19 +34,27 @@ Previously, I worked as a **Software Engineer at Samsung Research**, where I arc
 **DevOps & Cloud**
 <p align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Helm" src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white">
+  <img alt="GithubActions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img alt="ArgoCD" src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 </p>
 
-**Data Engineering**
+**Data**
 <p align="left">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+  <img alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+  <img alt="AWS S3" src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white">
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+  <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+  <img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
 </p>
 
 ---
