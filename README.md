@@ -70,13 +70,24 @@ Here are the technologies I specialize in:
 ---
 
 ### 📫 How to Reach Me
-
+<a href="https://wooyoung-kim.notion.site/Wooyoung-Kim-24f2bc1cc30f808ca3dbd1030ebbba6e">
+  <img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
+</a>
+<br/>
+<a href="https://drive.google.com/file/d/1ob3YFgknaRH9jD5fF7UalTrllz3PB60g/view">
+  <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume">
+</a>
+<br/>
 <a href="mailto:wooyoung.kim365@gmail.com">
   <img src="https://img.shields.io/badge/Email-wooyoung.kim365%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="#">
+<br/>
+<a href="https://drive.google.com/file/d/1dajBlzQK4m8UGE_cj0L-CsCxecaGZ-jY/view">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
+<br/>
+<a href="https://www.linkedin.com/in/wooyoung-kim-608422218/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
